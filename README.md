@@ -27,7 +27,7 @@ A simple and intuitive task manager built using **React**. This app allows users
 To run this project locally:
 
 ```bash
-git clone https://github.com/your-username/task-management-app.git
-cd task-management-app
+git clone https://github.com/Umeshzz2001/Taskmanagement.git
+cd Taskmanagement
 npm install
 npm start
